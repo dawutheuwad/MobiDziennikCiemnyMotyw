@@ -1,0 +1,27 @@
+{
+    "manifest_version": 3,
+    "name": "MobiDziennikCiemnyMotyw",
+    "version": "1.0.0",
+    "description": "Tryb Ciemny Dla MobiDziennika",
+    "content_scripts": [
+        {
+            "matches": ["*://*.mobidziennik.pl/dziennik/*"],
+            "css": ["content.css"],
+            "js": ["content.js"],
+            "run_at": "document_end"
+        }
+    ],
+    "icons": {
+        "16": "icon-16.png",
+        "32": "icon-32.png",
+        "48": "icon-48.png",
+        "128": "icon-128.png"
+    },
+    "action": {
+        "default_icon": {
+            "16": "icon-16.png",
+            "32": "icon-32.png"
+        }
+    },
+    "permissions": ["storage"]
+}

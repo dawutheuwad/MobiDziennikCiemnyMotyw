@@ -1,0 +1,219 @@
+body {
+    background-color: #121212 !important;
+    color: #e0e0e0 !important;
+}
+
+a { color: #e0e0e0 !important; }
+
+
+#menu_gray {
+    background-color: #232323 !important;
+    background-image: none !important;
+}
+
+div#content h1 {
+    color: #e0e0e0 !important;
+    text-shadow: 0px 0px 0px !important;
+}
+
+div#bottom i {
+    color: #e0e0e0 !important;
+}
+
+#bottom div {
+    color: #e0e0e0 !important;
+}
+
+.szczesliwy_numerek, .sr-only {
+    background: #ea4200 !important;
+    color: #e0e0e0 !important;
+}
+
+#profil_box {
+    background: #00072d !important;
+}
+
+.li_no_hover {
+    background: #00072d !important;
+}
+
+.current {
+    background: #373737 !important;
+}
+
+.lekcja_data {
+    color: #e0e0e0 !important;
+}
+
+.komorka_biala.zasoby {
+    background: #232323 !important;
+}
+
+.komorka_kolor.zasoby {
+    background: #232323 !important;
+}
+
+ul.dropdown ul {
+    background: #232323 !important;
+}
+
+a.button, a.button_right, .qq-upload-button {
+    background: #232323 !important;
+}
+
+.qq-upload-button {
+    color: #fff !important;
+}
+
+input[type="submit"],
+.input_tButton {
+    background: #232323 !important;
+    color: #fff !important;
+}
+
+input[type="text"], 
+input[type="password"], select, textarea, 
+.input_tCustom {
+    background: #232323 !important;
+    color: #fff !important;
+}
+
+.podswietl.komorka_biala {
+    background: #232323 !important;
+}
+
+.podswietl.komorka_kolor {
+    background: #373737 !important;
+}
+
+tr.podswietl:hover,
+tr.podswietl2:hover {
+    background: #2a2a2a !important;
+    border-bottom: 1px solid #444 !important;
+}
+
+.button-current {
+    background: #373737 !important
+}
+
+.label1.komorka_biala {
+    background: #232323 !important;
+}
+
+.label1.komorka_kolor {
+    background: #373737 !important;
+}
+
+html body .label1:hover {
+    background: #2a2a2a !important;
+    border-bottom: 1px solid #444 !important;
+}
+
+.info a {
+    color: #fff !important;
+}
+
+.okienko_informacyjne {
+    background: #232323 !important;
+}
+
+.komorka_biala {
+    background: #232323 !important;
+}
+
+.komorka_kolor {
+    background: #373737 !important;
+}
+
+.oswiadczenie-tresc {
+    background: #232323 !important;
+}
+
+html body .pole {
+    background: #373737 !important;
+    color: #fff !important;
+}
+
+html body .pole[data-rodzaj*="oswiadczajacy"] {
+    background: #1c3700 !important;
+    color: #fff !important;
+}
+
+.ui-widget-content {
+    color: #fff !important;
+    background: rgba(0, 0, 0, 0) !important;
+    backdrop-filter: blur(3px) !important;
+}
+
+.dialog-danger .ui-widget-header {
+    background: #bf00002c !important;
+    backdrop-filter: blur(4px) !important;
+}
+
+.dialog-danger .ui-dialog-buttonset .ui-button {
+    background: #00000000;
+    border: 1px solid #ccc;
+    color: #fff;
+    backdrop-filter: blur(3px);
+}
+
+.okno {
+    background: #232323 !important;
+}
+
+.nazwa-szkoly {
+    color: #fff !important;
+}
+
+.plansc_cnt > .plansc_cnt_w > .bx.pz {
+    background: #00152a !important;
+}
+
+.plansc_cnt > .plansc_cnt_w > .bx.lo {
+    background: #1f1a00 !important;
+}
+
+.plansc_cnt > .plansc_cnt_w > .bx.pr {
+    background: #042d00 !important;
+}
+
+.plansc_top > div .plansc_dw {
+    background: #1f1a00 !important;
+}
+
+.plansc_cnt > .plansc_cnt_w > .bx.lz {
+    background: #361800 !important;
+}
+
+.plansc_godz > div > span {
+    background: #00000000 !important;
+}
+
+.plansc_godz > div > span b {
+    background: #00000000 !important;
+    color: #ffffff !important;
+}
+
+html body a.info {
+    color: #fff !important;
+}
+
+a.info small, 
+#mbtooltips > span small {
+    color: #fff !important;
+}
+
+html body .gradient01 {
+    background: #00072D;
+    background: linear-gradient(0deg, #232323 0%, #373737 100%);
+    
+}
+
+table.spis td,
+table.plan td {
+    background-color: #232323 !important;
+}
+
+html body .wiadomosc_tresc {
+    background: #232323
+}
